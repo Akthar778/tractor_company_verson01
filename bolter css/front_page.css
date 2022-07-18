@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+}
+
+.heading {
+    background-color: lightgreen;
+    color: black;
+    text-align: center;
+    font-weight: bold;
+    font-size: 2rem;
+    display: block;
+    padding: 1.3rem;
+    margin-bottom: 1rem;
+    /* font-family: 'Splash', cursive; */
+
+}
+
+/* this is google font link  */
+/* <style>@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&display=swap');
+</style>font-family: 'Open Sans',
+sans-serif; */
+.img1 {
+    float: left;
+
+}
+
+.img2 {
+    object-fit: cover;
+    float: left;
+}
+
+.img3 {
+    margin-left: 0;
+    padding-left: 0;
+    border-left: 0;
+}
+
+.us {
+    text-decoration: none;
+}
